@@ -1,9 +1,25 @@
+
+# Python virtual environment
 backend/venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+frontend/.env.*
+
+# Node dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# User uploads and transcripts
 backend/uploads/
 backend/transcripts/
 
-frontend/node_modules/
-
-__pycache__/
-*.pyc
-.env
+# Editor settings
+.vscode/

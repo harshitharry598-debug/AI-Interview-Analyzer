@@ -227,12 +227,11 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Atmihaa MB**
+**Harshit Singh**
 
 B.Tech Computer Science & Engineering
-VIT Chennai
+Lucknow UP
 
-GitHub: https://github.com/atmihaa-06
 
 ---
 
